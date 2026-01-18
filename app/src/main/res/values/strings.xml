@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Final_Project</string>
+
+    <!-- User Profile Details -->
+    <string name="user_name">Tang KavTheng</string>    <string name="user_friend_count">1.8K friends</string>
+    <string name="user_bio">BOB</string>
+
+    <!-- Button Texts -->
+    <string name="button_add_to_story">Add to story</string>
+    <string name="button_edit_profile">Edit profile</string>
+    <string name="button_edit_public_details">Edit public details</string>
+
+    <!-- Info List Texts -->
+    <string name="info_student_at">Student at Royal University of Phnom Penh Cambodia</string>
+
+</resources>

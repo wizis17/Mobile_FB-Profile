@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#FF888888</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF00FF00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="orange">#FFFF7043</color>
+    <color name="purple">#FFD500F9</color>
+    <color name="pink">#FFFF485F</color>
+    <color name="brown">#FF795548</color>
+    <color name="teal">#FF008080</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="lime">#FF00FF00</color>
+    <color name="indigo">#FF4B0082</color>
+    <color name="amber">#FFFFC107</color>
+    <color name="deep_orange">#FFFF5722</color>
+    <color name="light_green">#FF9CCC65</color>
+    <color name="light_blue">#FF03A9F4</color>
+    <color name="deep_purple">#FF673AB7</color>
+    <color name="light_gray">#D3D3D3</color>
+    <!-- Primary Theme Colors -->
+    <color name="colorPrimary">#007BFF</color> <!-- A standard blue for primary actions -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Text on top of the primary color -->
+
+    <!-- Surface and Background Colors (Light Theme) -->
+    <color name="colorSurface">#FFFFFF</color> <!-- The main background of the screen -->
+    <color name="colorOnSurface">#000000</color> <!-- Primary text color on the background -->
+    <color name="colorOnSurfaceSecondary">#8A000000</color> <!-- 54% opacity black for secondary text -->
+
+    <!-- Secondary Button Colors -->
+    <color name="colorButtonSecondary">#E0E0E0</color> <!-- A light gray for secondary buttons -->
+    <color name="colorOnButtonSecondary">#000000</color> <!-- Text color for secondary buttons -->
+
+    <!-- Other UI Colors -->
+    <color name="colorDivider">#1F000000</color> <!-- 12% opacity black for dividers -->
+</resources>
